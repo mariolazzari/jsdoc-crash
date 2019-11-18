@@ -1,0 +1,23 @@
+{
+  "name": "jsdoc-crash",
+  "version": "1.0.0",
+  "description": "\"# jsdoc-crash\"",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/jsdoc-crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/jsdoc-crash/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/jsdoc-crash#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
+}
